@@ -1,6 +1,6 @@
 # Sameen Shaik - Portfolio
 
-**Live Site:** [https://sameenshaik.com](https://sameenshaik.com)
+**Live Site:** [https://sameen-shaik.github.io](https://sameen-shaik.github.io/)
 
 A modern, responsive portfolio website showcasing my work, skills, and experience as a Full Stack Developer.
 
@@ -83,6 +83,6 @@ MIT License
 
 ## Contact
 
-- **Email:** sameenshaik@example.com
+- **Email:** sameenshaik17@gmail.com
 - **LinkedIn:** [linkedin.com/in/sameenshaik](https://linkedin.com/in/sameenshaik)
 - **GitHub:** [github.com/sameenshaik](https://github.com/sameenshaik)
